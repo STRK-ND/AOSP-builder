@@ -3,7 +3,7 @@ cd /tmp/rom # Depends on where source got synced
 
 # Normal build steps
 
-export ALLOW_MISSING_DEPENDENCIES=true
+
 
 source build/envsetup.sh
 lunch aosp_X00TD-userdebug
